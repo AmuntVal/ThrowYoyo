@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d1a550171c18a144be85aee12017d69, type: 3}
+  m_Name: Audio Manager File
+  m_EditorClassIdentifier: 
+  audioMixer:
+  - {fileID: 0}
+  soundPrefab: {fileID: 977031777656076914, guid: c40912f5a7dede148af5b68dd313394f,
+    type: 3}
+  isPopulated: 1
+  hasDirectories: 1
+  directory:
+  - 
+  library:
+  - key: account
+    value: {fileID: 8300000, guid: 7f5b66abbca629342a8c118ba208541e, type: 3}
+  - key: beat
+    value: {fileID: 8300000, guid: 89af72dd26ab0ba42bf9aa4bf732504f, type: 3}
+  - key: die
+    value: {fileID: 8300000, guid: e32761dfade392942a6827b1a52ec9d3, type: 3}
+  - key: end
+    value: {fileID: 8300000, guid: 14eda2b12b989cb4cb0f50554b56661d, type: 3}
+  - key: ferti
+    value: {fileID: 8300000, guid: 6d5b7a20b9645e549a531bc52e9c5a04, type: 3}
+  - key: fly
+    value: {fileID: 8300000, guid: 092688f47453556448d203301166e2e0, type: 3}
+  - key: haha
+    value: {fileID: 8300000, guid: 159656f910967604593fe1a872d6edbe, type: 3}
+  - key: knife
+    value: {fileID: 8300000, guid: d2ec2f59255e56943a4bfc0641dbbab7, type: 3}
+  - key: trunk
+    value: {fileID: 8300000, guid: 45980e7a7c9563946b748e25aad778ba, type: 3}
